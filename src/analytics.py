@@ -305,4 +305,3 @@ class Analytics:
             'cross_zone_statistics': self.get_cross_zone_statistics(),
             'request_distribution': self.get_zone_request_distribution()
         }
-        
